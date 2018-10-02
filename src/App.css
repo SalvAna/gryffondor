@@ -1,0 +1,39 @@
+
+.App {
+  text-align: center;
+  cursor: url("http://www.rw-designer.com/cursor-extern.php?id=26747"), pointer;
+}
+
+
+
+.App-header {
+  background-color: #9b1515;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  color: #FFD700;
+}
+
+.Game-Zone{
+  background-color: #444242;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+
+}
+
+.Menus{
+  background-color: #444242;
+  height: 250px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+
+}

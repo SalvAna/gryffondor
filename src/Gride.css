@@ -1,0 +1,9 @@
+.Gride {
+  background-color: #444242;
+  height: 500px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
